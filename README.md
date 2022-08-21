@@ -12,7 +12,7 @@ I am a SAS Developer from the UK, with a passion for product development - such 
 - :telescope: Priority 1 is delivery and support of SAS-Powered Web Applications and Data Engineering Projects 
 - :seedling: Priority 2 is the development of open source tools to accelerate the above
 - :zap: Priority 3 is the documentation and community around SASjs and other SAS products
-- :mailbox:Reach out to me here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allanbowe/)
+- :mailbox: Reach out to me here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allanbowe/)
 
 ---
 
