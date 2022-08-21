@@ -1,15 +1,9 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/sasjs/vscode-extension/main/assets/images/running-man-dark.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/sasjs/vscode-extension/main/assets/images/running-man-dark.gif" width="70"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/allanbowe/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=allanbowe&style=flat-square&color=blue" alt=""/>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=allanbowe&style=flat-square&color=blue" alt=""/>
   <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
 </div>
 
 ---
@@ -19,7 +13,7 @@ I am a SAS Developer from the UK, with a passion for product development - such 
 - :telescope: Priority 1 is delivery and support of SAS-Powered Web Applications and Data Engineering Projects 
 - :seedling: Priority 2 is the development of open source tools to accelerate the above
 - :zap: Priority 3 is the documentation and community around SASjs and other SAS products
-- :mailbox:Reach out to me at: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allanbowe/)
+- :mailbox:Reach out to me here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allanbowe/)
 
 ---
 
