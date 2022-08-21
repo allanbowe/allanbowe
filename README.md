@@ -19,4 +19,4 @@ I am a SAS Developer from the UK, with a passion for product development - such 
 ### :fire: My Stats :
 <img src="https://github-readme-stats.vercel.app/api?username=allanbowe&count_private=true&theme=radical&show_icons=true&hide=stars" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allanbowe&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=allanbowe)](https://git.io/streak-stats)
