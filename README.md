@@ -6,7 +6,6 @@
   <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 </div>
 
----
 
 ### 👨‍💻: About Me :
 I am a SAS Developer from the UK, with a passion for product development - such as [SASjs](https://github.com/sasjs), [SASensei](https://sasensei.com) and [Data Controller for SAS](https://datacontroller.io)
