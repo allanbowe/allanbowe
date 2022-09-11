@@ -19,7 +19,7 @@ These days:
 - :telescope: Our focus is project deliveries and support in relation to SAS-Powered Web Applications and DevOps / DataOps
 - :seedling: A secondary outcome of this is the MIT open source tooling to accelerate the above
 - :zap: We also support the SAS user community in Europe and beyond
-- :mailbox: Reach out to me here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allanbowe/)
+- :mailbox: Reach out to me here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allanbowe/) ![Mastodon Follow](https://img.shields.io/mastodon/follow/108942419765419200?domain=https%3A%2F%2Fsocial.4gl.io&style=social)
 
 ---
 
