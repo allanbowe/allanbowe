@@ -8,10 +8,17 @@
 
 
 ### 👨‍💻: About Me :
-I am a SAS Developer from the UK, with a passion for product development - such as [SASjs](https://github.com/sasjs), [SASensei](https://sasensei.com) and [Data Controller for SAS](https://datacontroller.io)
-- :telescope: Priority 1 is delivery and support of SAS-Powered Web Applications and Data Engineering Projects 
-- :seedling: Priority 2 is the development of open source tools to accelerate the above
-- :zap: Priority 3 is the documentation and community around SASjs and other SAS products
+I am originally a SAS Developer from the UK, with a passion for product development (on SAS).  I eventually founded a company focused purely on SAS Apps.  With the help of a crack team of JavaScript Developers, and funded by various SAS consulting and app modernisation projects, we unleashed the following brands:
+
+* [SASjs](https://github.com/sasjs) - A DevOps framework for SAS
+* [SASensei](https://sasensei.com) - SAS Quiz game with over 5000 players globally
+* [Data Controller for SAS](https://datacontroller.io) - Self Serve Data Capture in SAS
+
+These days:
+
+- :telescope: Our focus is project deliveries and support in relation to SAS-Powered Web Applications and DevOps / DataOps
+- :seedling: A secondary outcome of this is the MIT open source tooling to accelerate the above
+- :zap: We also support the SAS user community in Europe and beyond
 - :mailbox: Reach out to me here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allanbowe/)
 
 ---
