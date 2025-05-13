@@ -8,18 +8,17 @@
 
 
 ### 👨‍💻: About Me :
-I am originally a SAS Developer from the UK, with a passion for product development (on SAS).  I eventually founded a company focused purely on SAS Apps.  With the help of a crack team of JavaScript Developers, and funded by various SAS consulting and app modernisation projects, we unleashed the following brands:
+I am a SAS Developer from the UK, with a passion for product development (on SAS).  I founded a company (4GL) focused purely on SAS Apps.  With the help of a crack team of JavaScript Developers, and funded by various SAS consulting and app modernisation projects, we unleashed the following brands:
 
 * [SASjs](https://github.com/sasjs) - A DevOps framework for SAS
-* [SASensei](https://sasensei.com) - SAS Quiz game with over 5000 players globally
-* [Data Controller for SAS](https://datacontroller.io) - Self Serve Data Capture in SAS
-
+* [Data Controller for SAS](https://datacontroller.io) - Data Capture in SAS
+* [4GL](https://sasapps.io) - AF/SCL and STP Web App Migrations to Viya (or SASjs Server)
+* 
 These days:
 
 - :telescope: Our focus is project deliveries and support in relation to SAS-Powered Web Applications and DevOps / DataOps
 - :seedling: A secondary outcome of this is the MIT open source tooling to accelerate the above
-- :zap: We also support the SAS user community in Europe and beyond
-- :mailbox: Reach out to me here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allanbowe/) [![Mastodon Follow](https://img.shields.io/mastodon/follow/108942419765419200?domain=https%3A%2F%2Fsocial.4gl.io&style=social)](https://social.4gl.io/users/allan/remote_follow)
+- :mailbox: Reach out to me here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allanbowe/) 
 
 ---
 
